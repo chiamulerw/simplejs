@@ -1,2 +1,2 @@
 # simplejs
-Teste de dados em javascripf
+Teste de dados em javascript
